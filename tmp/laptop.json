@@ -1,0 +1,62 @@
+{
+ "id":  "a7814241-46b9-4bae-9b2a-64cdef400691",
+ "brand":  "DELL",
+ "name":  "G series",
+ "cpu":  {
+  "brand":  "AMD",
+  "name":  "Ryzen 5",
+  "number_cores":  2,
+  "number_threads":  10,
+  "min_ghz":  2.0651411750026614,
+  "max_ghz":  2.263826958259623
+ },
+ "ram":  {
+  "value":  6,
+  "unit":  "GIGABYTE"
+ },
+ "gpu":  [
+  {
+   "brand":  "AMD",
+   "name":  "RX VEGA",
+   "min_ghz":  2.2601684481477546,
+   "max_ghz":  3.648030596279118,
+   "memory":  {
+    "value":  2,
+    "unit":  "GIGABYTE"
+   }
+  }
+ ],
+ "storages":  [
+  {
+   "driver":  "SSD",
+   "memory":  {
+    "value":  261,
+    "unit":  "GIGABYTE"
+   }
+  },
+  {
+   "driver":  "HDD",
+   "memory":  {
+    "value":  6,
+    "unit":  "TERABYTE"
+   }
+  }
+ ],
+ "screen":  {
+  "size_inch":  14.094245,
+  "resolution":  {
+   "width":  4615,
+   "height":  2596
+  },
+  "panel":  "IPS",
+  "nultitouch":  false
+ },
+ "keyboard":  {
+  "layout":  "QWERTY",
+  "backlit":  true
+ },
+ "weight_kg":  8.862929232920054,
+ "price_usd":  1913.1950834126517,
+ "release_year":  2011,
+ "updated_at":  "2024-04-15T15:35:36.102288037Z"
+}
